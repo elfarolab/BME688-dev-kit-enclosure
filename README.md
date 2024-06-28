@@ -61,7 +61,7 @@ Use the 2 retainers, front and back, to keep the kit in position and to avoid it
 
 You will need some screws:
 
-* 4 screws for the assembly type: M1.5 x 10mm Phillips Pan Head Sheet Metal Self Tapping
+* 4 screws for the assembly type: M1.5 x 8mm Phillips Pan Head Sheet Metal Self Tapping
 * 2 screws for the slide switch type: M1.5 x 5mm Phillips Pan Head Sheet Metal Screws Self Tapping 
 
 Screws dimensions and type could be changed.
